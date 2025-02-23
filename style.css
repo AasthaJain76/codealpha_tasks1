@@ -1,0 +1,33 @@
+*{
+    padding:0;
+    margin:0;
+}
+.btn{
+    width:45px;
+    height: 55px;
+    margin-right:5px;
+    border-radius: 8px;
+}
+.row{
+    margin:10px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner-con{
+    margin-top:30px;
+
+}
+.input{
+    position: relative;
+    right:20px;
+    width:250px;
+    height: 35px;
+    border-radius: 8px;
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+}
