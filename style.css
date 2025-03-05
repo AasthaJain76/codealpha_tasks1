@@ -1,0 +1,38 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background: rgb(201,123,158);
+    background: radial-gradient(circle, rgba(201,123,158,1) 0%, rgba(24,85,218,1) 65%, rgba(27,121,232,1) 87%);
+    
+}
+.btn{
+    width:45px;
+    height: 55px;
+    margin-right:5px;
+    border-radius: 8px;
+}
+.row{
+    margin:10px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner-con{
+    margin-top:30px;
+
+}
+.input{
+    position: relative;
+    right:20px;
+    width:250px;
+    height: 35px;
+    border-radius: 8px;
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+}
